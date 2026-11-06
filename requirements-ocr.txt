@@ -1,0 +1,4 @@
+# 선택 기능(처방전 사진 OCR). torch 를 함께 설치하므로 용량이 큽니다.
+easyocr>=1.7
+numpy
+pillow

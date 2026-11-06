@@ -1,0 +1,13 @@
+from,to,note
+methylephedrine,dl-methylephedrine,DUR 자료 안에서 표기가 섞여 있음 (같은 성분으로 취급)
+methylephedrin,dl-methylephedrine,DUR 자료의 오타
+methylergonovine,methylergometrine,같은 성분의 다른 공식 명칭 (USAN/INN)
+galgeun-tang extract,galgeuntang extract,갈근탕 엑스 표기 통일
+galgeuntang dried extract,galgeuntang extract,갈근탕 엑스 표기 통일
+갈근탕엑스,galgeuntang extract,DUR 영문 컬럼에 한글로 적힌 항목
+powdered cinnamon bark,cinnamon bark powder,계피 분말 표기 통일
+ibuprofen arginine,ibuprofen,이부프로펜 아르기닌염 -> 활성 성분 기준 (약사 확인 권장)
+sodium valproate,valproic acid,발프로산 계열 (DUR 에 valproate / valproic acid / sodium valproate 가 따로 등재됨)
+valproate,valproic acid,발프로산 계열
+conjugated estrogens,estrogen,DUR 에 estrogen / conjugated estrogens 가 따로 등재됨 (약사 확인 권장)
+omega-3-acid ethyl esters90,omega-3-acid ethyl esters 90,DUR 자료의 띄어쓰기 오타

@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+data/raw/
+temp/
+*.pkl
+data/feedback/

@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#0E8C8C"
+backgroundColor = "#F4F8FA"
+secondaryBackgroundColor = "#E9F2F6"
+textColor = "#1B2B38"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"  # 우측 상단 Deploy 버튼 등을 숨김 (발표용)

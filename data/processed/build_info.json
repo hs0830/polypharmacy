@@ -1,0 +1,13 @@
+{
+  "built_at": "2026-09-29T15:58:59",
+  "products": 42761,
+  "products_resolved": 42468,
+  "api_dur_mismatch": 29,
+  "learned_alias": 48,
+  "drug_info": 4756,
+  "dur_latest": "2026-07-21",
+  "permit_latest": "20260928",
+  "dur_pairs": 1483,
+  "drugbank_pairs": 0,
+  "ingredient_source": "목록 API ITEM_INGR_NAME(영문)"
+}
